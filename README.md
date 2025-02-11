@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurabhghumnar
-- 👀 I’m a Software Engineer
-- 🌱 I’m currently Working at Persistent Systems
-- 📫 Reach me at +91 7775040920 or saurabh1213.sg@gmail.com
+- 👀 I’m a Software Engineer / Business Analyst
+- 🌱 I’m currently a Graduate student at the University of Illinois Urbana Champaign
+- 📫 Reach me at +1 447-902-6357 or saurabhghumnar@gmail.com
 
 <!---
 saurabhghumnar/saurabhghumnar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
