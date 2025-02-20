@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhghumnar
-- 👀 I’m a Software Engineer / Business Analyst
-- 🌱 I’m currently a Graduate student at the University of Illinois Urbana Champaign
+- 👀 I’m a Product Developer and a Business Analyst
+- 🌱 Pursuing Masters at the University of Illinois Urbana Champaign
 - 📫 Reach me at +1 447-902-6357 or saurabhghumnar@gmail.com
 
 <!---
