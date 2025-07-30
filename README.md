@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saurabhghumnar
-- 👀 I’m a Product Developer and a Business Analyst
+- 👀 I’m a Data Analyst and Data Engineer with Project Management experience
 - 🌱 Pursuing Masters at the University of Illinois Urbana Champaign
 - 📫 Reach me at +1 447-902-6357 or saurabhghumnar@gmail.com
 
